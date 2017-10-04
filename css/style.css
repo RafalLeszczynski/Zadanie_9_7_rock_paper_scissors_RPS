@@ -1,5 +1,10 @@
-* {background: yellow;}
-div {
-    padding-top: 5px;
-    padding-bottom: 5px;
+* {background: white;
+    color: darkslategrey;
+}
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h4 {
+    display: inline;
 }
